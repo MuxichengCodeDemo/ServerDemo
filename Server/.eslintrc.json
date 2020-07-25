@@ -1,0 +1,10 @@
+{
+  "extends": [
+    "alloy",
+    "alloy/vue",
+    "alloy/react"
+  ],
+  "rules": {
+    // Customize your rules
+  }
+}
